@@ -1,8 +1,6 @@
 # CompraBet
 
-![1](https://github.com/DaltonDom/CompraBet/assets/23325119/ffb97933-bd99-4e52-b165-d8ae587e8133)
-![2](https://github.com/DaltonDom/CompraBet/assets/23325119/5946c62f-fab4-4fcd-9bdc-9ba9211ef786)
-![1](https://github.com/DaltonDom/CompraBet/assets/23325119/93f7809d-e15c-451f-b6ff-0bd9c9a0e7a2)
+![1](https://github.com/DaltonDom/CompraBet/assets/23325119/ce7f4a5e-4f55-4de5-926e-235003bf8cf8)
 
 
 ## Features
