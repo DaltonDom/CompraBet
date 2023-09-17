@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "CompraBet",
+    "slug": "CompraBet",
+    "privacy": "unlisted",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.daltondomenighi.comprabet"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.daltondomenighi.comprabet"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "packagerOpts": {
+      "sourceExts": ["cjs"]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0a1bebbc-d89b-4065-a6d6-d4217130af3c"
+      }
+    }
+  }
+}
